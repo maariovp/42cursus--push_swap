@@ -1,0 +1,6 @@
+.clang-format
+.idea
+cmake-build-debug
+
+*.o
+libft.a
